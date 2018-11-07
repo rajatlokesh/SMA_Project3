@@ -1,0 +1,14 @@
+Y:\NotReleasedYet\Toker\Toker\obj\Debug\Toker.csprojResolveAssemblyReference.cache
+Y:\NotReleasedYet\Toker\Toker\obj\Debug\Toker.csproj.CoreCompileInputs.cache
+Y:\NotReleasedYet\Toker\Toker\bin\Debug\Toker.exe.config
+Y:\NotReleasedYet\Toker\Toker\bin\Debug\Toker.exe
+Y:\NotReleasedYet\Toker\Toker\bin\Debug\Toker.pdb
+Y:\NotReleasedYet\Toker\Toker\obj\Debug\Toker.exe
+Y:\NotReleasedYet\Toker\Toker\obj\Debug\Toker.pdb
+C:\Users\lokes\OneDrive\Desktop\SMA_681\project 3\Project2 (1)\Toker\bin\Debug\Toker.dll.config
+C:\Users\lokes\OneDrive\Desktop\SMA_681\project 3\Project2 (1)\Toker\bin\Debug\Toker.dll
+C:\Users\lokes\OneDrive\Desktop\SMA_681\project 3\Project2 (1)\Toker\bin\Debug\Toker.pdb
+C:\Users\lokes\OneDrive\Desktop\SMA_681\project 3\Project2 (1)\Toker\obj\Debug\Toker.csprojResolveAssemblyReference.cache
+C:\Users\lokes\OneDrive\Desktop\SMA_681\project 3\Project2 (1)\Toker\obj\Debug\Toker.csproj.CoreCompileInputs.cache
+C:\Users\lokes\OneDrive\Desktop\SMA_681\project 3\Project2 (1)\Toker\obj\Debug\Toker.dll
+C:\Users\lokes\OneDrive\Desktop\SMA_681\project 3\Project2 (1)\Toker\obj\Debug\Toker.pdb

@@ -1,0 +1,7 @@
+C:\Users\lokes\OneDrive\Desktop\SMA_681\project 3\Project2 (1)\TestHarness\bin\Debug\TestHarness.exe.config
+C:\Users\lokes\OneDrive\Desktop\SMA_681\project 3\Project2 (1)\TestHarness\bin\Debug\TestHarness.exe
+C:\Users\lokes\OneDrive\Desktop\SMA_681\project 3\Project2 (1)\TestHarness\bin\Debug\TestHarness.pdb
+C:\Users\lokes\OneDrive\Desktop\SMA_681\project 3\Project2 (1)\TestHarness\obj\Debug\TestHarness.csprojResolveAssemblyReference.cache
+C:\Users\lokes\OneDrive\Desktop\SMA_681\project 3\Project2 (1)\TestHarness\obj\Debug\TestHarness.csproj.CoreCompileInputs.cache
+C:\Users\lokes\OneDrive\Desktop\SMA_681\project 3\Project2 (1)\TestHarness\obj\Debug\TestHarness.exe
+C:\Users\lokes\OneDrive\Desktop\SMA_681\project 3\Project2 (1)\TestHarness\obj\Debug\TestHarness.pdb

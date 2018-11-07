@@ -1,0 +1,11 @@
+C:\Users\lokes\OneDrive\Desktop\SMA_681\project 3\Project2 (1)\SemiExp\bin\Debug\SemiExp.dll.config
+C:\Users\lokes\OneDrive\Desktop\SMA_681\project 3\Project2 (1)\SemiExp\bin\Debug\SemiExp.dll
+C:\Users\lokes\OneDrive\Desktop\SMA_681\project 3\Project2 (1)\SemiExp\bin\Debug\SemiExp.pdb
+C:\Users\lokes\OneDrive\Desktop\SMA_681\project 3\Project2 (1)\SemiExp\bin\Debug\Toker.dll
+C:\Users\lokes\OneDrive\Desktop\SMA_681\project 3\Project2 (1)\SemiExp\bin\Debug\Toker.pdb
+C:\Users\lokes\OneDrive\Desktop\SMA_681\project 3\Project2 (1)\SemiExp\bin\Debug\Toker.dll.config
+C:\Users\lokes\OneDrive\Desktop\SMA_681\project 3\Project2 (1)\SemiExp\obj\Debug\SemiExp.csprojResolveAssemblyReference.cache
+C:\Users\lokes\OneDrive\Desktop\SMA_681\project 3\Project2 (1)\SemiExp\obj\Debug\SemiExp.csproj.CoreCompileInputs.cache
+C:\Users\lokes\OneDrive\Desktop\SMA_681\project 3\Project2 (1)\SemiExp\obj\Debug\SemiExp.csproj.CopyComplete
+C:\Users\lokes\OneDrive\Desktop\SMA_681\project 3\Project2 (1)\SemiExp\obj\Debug\SemiExp.dll
+C:\Users\lokes\OneDrive\Desktop\SMA_681\project 3\Project2 (1)\SemiExp\obj\Debug\SemiExp.pdb

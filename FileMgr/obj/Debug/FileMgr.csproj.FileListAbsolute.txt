@@ -1,0 +1,6 @@
+C:\Users\lokes\OneDrive\Desktop\SMA_681\project 3\Project2 (1)\FileMgr\bin\Debug\Navigate.dll
+C:\Users\lokes\OneDrive\Desktop\SMA_681\project 3\Project2 (1)\FileMgr\bin\Debug\Navigate.pdb
+C:\Users\lokes\OneDrive\Desktop\SMA_681\project 3\Project2 (1)\FileMgr\obj\Debug\FileMgr.csprojResolveAssemblyReference.cache
+C:\Users\lokes\OneDrive\Desktop\SMA_681\project 3\Project2 (1)\FileMgr\obj\Debug\FileMgr.csproj.CoreCompileInputs.cache
+C:\Users\lokes\OneDrive\Desktop\SMA_681\project 3\Project2 (1)\FileMgr\obj\Debug\Navigate.dll
+C:\Users\lokes\OneDrive\Desktop\SMA_681\project 3\Project2 (1)\FileMgr\obj\Debug\Navigate.pdb

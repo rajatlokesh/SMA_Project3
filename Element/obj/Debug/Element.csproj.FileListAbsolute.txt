@@ -1,0 +1,5 @@
+C:\Users\lokes\OneDrive\Desktop\SMA_681\project 3\Project2 (1)\Element\bin\Debug\Element.dll
+C:\Users\lokes\OneDrive\Desktop\SMA_681\project 3\Project2 (1)\Element\bin\Debug\Element.pdb
+C:\Users\lokes\OneDrive\Desktop\SMA_681\project 3\Project2 (1)\Element\obj\Debug\Element.csproj.CoreCompileInputs.cache
+C:\Users\lokes\OneDrive\Desktop\SMA_681\project 3\Project2 (1)\Element\obj\Debug\Element.dll
+C:\Users\lokes\OneDrive\Desktop\SMA_681\project 3\Project2 (1)\Element\obj\Debug\Element.pdb
